@@ -1,0 +1,14 @@
+streamlit
+anthropic
+pymupdf
+numpy
+pandas
+plotly
+scikit-learn
+sentence-transformers
+transformers
+sentencepiece
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+
+
